@@ -1,1 +1,19 @@
-p { background-color: red; }
+.iso-otsikko { 
+    color: blue; 
+}
+
+* { 
+    color: #B22222; 
+}
+
+
+li { 
+    color: #FF69B4; 
+}
+
+#punainen { 
+    color: red; 
+}
+
+
+
