@@ -1,18 +1,40 @@
 .iso-otsikko { 
-    color: blue; 
+    color: #2F4F4F; 
+    font-family: sans-serif;
 }
 
+body {
+  margin: 0 auto;
+  max-width: 50em;
+  font-family: sans-serif;
+  line-height: 1.5;
+  padding: 4em 1em;
+}
+
+
 * { 
-    color: #B22222; 
+    color: #808080; 
 }
 
 
 li { 
-    color: #FF69B4; 
+    color: #808080; 
 }
 
 #punainen { 
     color: red; 
+}
+
+h2 {
+    color: #666666;
+}
+
+h3 {
+    color: #666666;
+}
+
+a {
+    color: blue;
 }
 
 
